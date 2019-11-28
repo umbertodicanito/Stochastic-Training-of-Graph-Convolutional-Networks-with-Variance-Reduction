@@ -1,4 +1,4 @@
-# Stochastic-Training-of-Graph-Convolutional-Networks-with-Variance-Reduction
+# Stochastic Training of Graph Convolutional Networks with Variance Reduction
 
 ## Abstract
 In this project, we analyzed the performance and behavior of a GCN (Graph
